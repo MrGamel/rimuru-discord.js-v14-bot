@@ -1,5 +1,5 @@
 {
-    "token": "TOKENİNİZİ GİRİN",
+    token: process.env.TOKEN,
 	"log":"LOG KANALI IDSİ GİRİN",
     "sahip":"SAHİP ID GİRİN",
     "giris-cikis":"BOTUN EKLENİP ÇIKARILDIĞI KANALLARIN LOGUNU TUTACAPI KANAL ID",
